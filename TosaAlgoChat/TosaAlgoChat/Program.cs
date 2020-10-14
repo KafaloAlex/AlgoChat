@@ -13,6 +13,7 @@ namespace TosaAlgoChat
             //Adversaire Var
             int sizeAdv = Convert.ToInt32(Console.ReadLine());
             string typeAdv = Console.ReadLine();
+            
         }
     }
 }
